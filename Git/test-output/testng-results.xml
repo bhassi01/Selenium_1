@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78629" started-at="2020-04-15T20:52:43 IST" finished-at="2020-04-15T20:54:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78629" started-at="2020-04-15T20:52:43 IST" finished-at="2020-04-15T20:54:02 IST">
+      <class name="com.Git.test.SignupPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Git.test.SignupPageTest@2d36e77e]" name="setup" is-config="true" duration-ms="47207" started-at="2020-04-15T20:52:44 IST" finished-at="2020-04-15T20:53:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validate_Title()[pri:0, instance:com.Git.test.SignupPageTest@2d36e77e]" name="validate_Title" duration-ms="7863" started-at="2020-04-15T20:53:31 IST" finished-at="2020-04-15T20:53:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Title -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Git.test.SignupPageTest@2d36e77e]" name="teardown" is-config="true" duration-ms="2333" started-at="2020-04-15T20:53:39 IST" finished-at="2020-04-15T20:53:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Git.test.SignupPageTest@2d36e77e]" name="setup" is-config="true" duration-ms="19203" started-at="2020-04-15T20:53:41 IST" finished-at="2020-04-15T20:54:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validate_lOGO()[pri:0, instance:com.Git.test.SignupPageTest@2d36e77e]" name="validate_lOGO" duration-ms="1170" started-at="2020-04-15T20:54:00 IST" finished-at="2020-04-15T20:54:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_lOGO -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Git.test.SignupPageTest@2d36e77e]" name="teardown" is-config="true" duration-ms="741" started-at="2020-04-15T20:54:01 IST" finished-at="2020-04-15T20:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Git.test.SignupPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
