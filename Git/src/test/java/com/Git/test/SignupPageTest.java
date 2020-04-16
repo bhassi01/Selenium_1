@@ -19,8 +19,9 @@ public class SignupPageTest extends BaseTest {
 
 	@BeforeMethod()
 	public void setup() {
-		signuptype = new SignupPage();
 		initialisation();
+		signuptype = new SignupPage();
+		
 	}
 
 	@Test()
