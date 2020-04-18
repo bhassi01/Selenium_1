@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseTest {
-	 public static WebDriver driver;
+	 public static  WebDriver driver;
 	 static Properties prop;
 
 	public BaseTest() {
